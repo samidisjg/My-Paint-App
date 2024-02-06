@@ -31,11 +31,11 @@
         </ImageButton>
 
         <ImageButton
-            android:id = "@+id/greenColor"
+            android:id = "@+id/whiteColor"
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_margin="10dp"
-            android:background="@drawable/green_background">
+            android:background="@drawable/white_background">
         </ImageButton>
 
         <ImageButton
